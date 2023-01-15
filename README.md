@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- IMAGE SOURCE: https://medium.com/swlh/what-is-programming-d5aa8fb0f280 -->
+![Programming][programming-img]
 
-<!--
-**CodyTolene/CodyTolene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cody Tolene's github stats](https://github-readme-stats.vercel.app/api?username=CodyTolene&theme=merko&show_icons=true)
 
-Here are some ideas to get you started:
+<!-- TODO -->
+<!-- [![Angular][angular-img]][angular-url] -->
+<!-- [![TypeScript][typescript-img]][typescript-url] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- LINKS -->
+[angular-img]: .github/images/angular.svg
+[angular-url]: https://angular.io
+[programming-img]: .github/images/programming.gif
+[typescript-img]: .github/images/typescript.svg
+[typescript-url]: https://www.typescriptlang.org
