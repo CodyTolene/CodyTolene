@@ -3,7 +3,6 @@
 Current brain downloads:
 
 <p float="left">
-  <img width="48" src=".github/simple-icons/github.svg">
   <img width="48" src=".github/simple-icons/angular.svg">
   <img width="48" src=".github/simple-icons/typescript.svg">
   <img width="48" src=".github/simple-icons/javascript.svg">
@@ -29,6 +28,7 @@ Current brain downloads:
   <img width="48" src=".github/simple-icons/visualstudiocode.svg">
   <img width="48" src=".github/simple-icons/linux.svg">
   <img width="48" src=".github/simple-icons/firebase.svg">
+  <img width="48" src=".github/simple-icons/github.svg">
 </p>
 
 Thanks for visiting my page!
