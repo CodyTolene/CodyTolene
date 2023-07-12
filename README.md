@@ -1,35 +1,51 @@
 ## Cody Tolene
 
-Current brain downloads:
+Brain:
 
-<p float="left">
-  <img width="48" src=".github/simple-icons/angular.svg">
-  <img width="48" src=".github/simple-icons/typescript.svg">
-  <img width="48" src=".github/simple-icons/javascript.svg">
-  <img width="48" src=".github/simple-icons/csharp.svg">
-  <img width="48" src=".github/simple-icons/dotnet.svg">
-  <img width="48" src=".github/simple-icons/git.svg">
-  <img width="48" src=".github/simple-icons/adobephotoshop.svg">
-  <img width="48" src=".github/simple-icons/cplusplus.svg">
-  <img width="48" src=".github/simple-icons/docker.svg">
-  <img width="48" src=".github/simple-icons/azuredevops.svg">
-  <img width="48" src=".github/simple-icons/microsoftoffice.svg">
-  <img width="48" src=".github/simple-icons/express.svg">
-  <img width="48" src=".github/simple-icons/microsoftazure.svg">
-  <img width="48" src=".github/simple-icons/googlecloud.svg">
-  <img width="48" src=".github/simple-icons/jira.svg">
-  <img width="48" src=".github/simple-icons/nodedotjs.svg">
-  <img width="48" src=".github/simple-icons/bootstrap.svg">
-  <img width="48" src=".github/simple-icons/postman.svg">
-  <img width="48" src=".github/simple-icons/html5.svg">
-  <img width="48" src=".github/simple-icons/mysql.svg">
-  <img width="48" src=".github/simple-icons/microsoftsqlserver.svg">
-  <img width="48" src=".github/simple-icons/visualstudio.svg">
-  <img width="48" src=".github/simple-icons/visualstudiocode.svg">
-  <img width="48" src=".github/simple-icons/linux.svg">
-  <img width="48" src=".github/simple-icons/firebase.svg">
-  <img width="48" src=".github/simple-icons/github.svg">
-</p>
+<img width="48" src=".github/simple-icons/angular.svg" title="Google Angular" />
+<img width="48" src=".github/simple-icons/typescript.svg" title="TypeScript" />
+<img width="48" src=".github/simple-icons/javascript.svg" title="JavaScript" />
+<img width="48" src=".github/simple-icons/git.svg" title="Git" />
+<img width="48" src=".github/simple-icons/csharp.svg" title="CSharp" />
+<img width="48" src=".github/simple-icons/cplusplus.svg" title="C++" />
+<img width="48" src=".github/simple-icons/c.svg" title="C" />
+<img width="48" src=".github/simple-icons/cypress.svg" title="Cypress" />
+<img width="48" src=".github/simple-icons/dotnet.svg" title=".NET" />
+<img width="48" src=".github/simple-icons/adobephotoshop.svg" title="Adobe Photoshop" />
+<img width="48" src=".github/simple-icons/adobeillustrator.svg" title="Adobe Illustrator" />
+<img width="48" src=".github/simple-icons/docker.svg" title="Docker" />
+<img width="48" src=".github/simple-icons/microsoftoffice.svg" title="Microsoft Office" />
+<img width="48" src=".github/simple-icons/express.svg" title="Express" />
+<img width="48" src=".github/simple-icons/nodedotjs.svg" title="Node.js" />
+<img width="48" src=".github/simple-icons/bootstrap.svg" title="Bootstrap" />
+<img width="48" src=".github/simple-icons/postman.svg" title="Postman" />
+<img width="48" src=".github/simple-icons/html5.svg" title="HTML5" />
+<img width="48" src=".github/simple-icons/mysql.svg" title="MySQL" />
+<img width="48" src=".github/simple-icons/microsoftsqlserver.svg" title="Microsoft SQL Server" />
+<img width="48" src=".github/simple-icons/visualstudio.svg" title="Visual Studio" />
+<img width="48" src=".github/simple-icons/visualstudiocode.svg" title="Visual Studio Code" />
+<img width="48" src=".github/simple-icons/amazonaws.svg" title="Amazon AWS" />
+<img width="48" src=".github/simple-icons/githubactions.svg" title="GitHub Actions" />
+<img width="48" src=".github/simple-icons/githubpages.svg" title="GitHub Pages" />
+<img width="48" src=".github/simple-icons/grunt.svg" title="Grunt" />
+<img width="48" src=".github/simple-icons/gulp.svg" title="Grunt" />
+<img width="48" src=".github/simple-icons/github.svg" title="GitHub" />
+<img width="48" src=".github/simple-icons/microsoftazure.svg" title="Microsoft Azure" />
+<img width="48" src=".github/simple-icons/azuredevops.svg" title="Azure DevOps" />
+<img width="48" src=".github/simple-icons/jira.svg" title="Jira" />
+<img width="48" src=".github/simple-icons/firebase.svg" title="Google Firebase" />
+<img width="48" src=".github/simple-icons/googlecloud.svg" title="Google Cloud" />
+
+<!-- TODO -->
+<!--
+<br/>
+Platforms:
+Hobbies:
+<img width="48" src=".github/simple-icons/arduino.svg" title="" />
+<img width="48" src=".github/simple-icons/battledotnet.svg" title="" />
+-->
+
+<br/>
 
 Thanks for visiting my page!
 
