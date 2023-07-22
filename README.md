@@ -78,9 +78,12 @@ Various likes and interests:
   <img width="48" src=".github/simple-icons/discord.svg" title="Discord" />
   <img width="48" src=".github/simple-icons/dungeonsanddragons.svg" title="Dungeons & Dragons" />
   <img width="48" src=".github/simple-icons/epicgames.svg" title="Epic Games" />
+  <img width="48" src=".github/simple-icons/flipperzero.svg" title="Flipper Zero" />
+  <img width="48" src=".github/simple-icons/fullmetallalchemist.svg" title="Fullmetal Alchemist" />
   <img width="48" src=".github/simple-icons/funimation.svg" title="Funimation" />
   <img width="48" src=".github/simple-icons/jeep.svg" title="Jeep" />
   <img width="48" src=".github/simple-icons/nintendo.svg" title="Nintendo" />
+  <img width="48" src=".github/simple-icons/onepunchman.svg" title="One Punch Man" />
   <img width="48" src=".github/simple-icons/playstation.svg" title="Playstation" />
   <img width="48" src=".github/simple-icons/pokemon.svg" title="Pokemon" />
   <img width="48" src=".github/simple-icons/reddit.svg" title="Reddit" />
