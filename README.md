@@ -1,8 +1,16 @@
 ## Cody Tolene
 
-Current brain downloads:
+Father, husband, software engineer, tinkerer, a curious mind.
+
+<p>
+  <img width="48" src=".github/simple-icons/buymeacoffee.svg" title="Buy Me a Coffee" />
+  <a href="https://www.buymeacoffee.com/codytolene">Buy me a coffee!</a>
+</p>
+
+A few notable brain downloads:
 
 <p float="left">
+  <!-- Icons Source: https://simpleicons.org/ -->
   <img width="48" src=".github/simple-icons/angular.svg" title="Google Angular" />
   <img width="48" src=".github/simple-icons/typescript.svg" title="TypeScript" />
   <img width="48" src=".github/simple-icons/javascript.svg" title="JavaScript" />
@@ -36,23 +44,61 @@ Current brain downloads:
   <img width="48" src=".github/simple-icons/jira.svg" title="Jira" />
   <img width="48" src=".github/simple-icons/firebase.svg" title="Google Firebase" />
   <img width="48" src=".github/simple-icons/googlecloud.svg" title="Google Cloud" />
+  <img width="48" src=".github/simple-icons/azurepipelines.svg" title="Azure Pipelines" />
+  <img width="48" src=".github/simple-icons/blazor.svg" title="Blazor" />
+  <img width="48" src=".github/simple-icons/css3.svg" title="CSS3" />
+  <img width="48" src=".github/simple-icons/d3dotjs.svg" title="D3.js" />
+  <img width="48" src=".github/simple-icons/datadog.svg" title="Datadog" />
+  <img width="48" src=".github/simple-icons/eslint.svg" title="ESLint" />
+  <img width="48" src=".github/simple-icons/filezilla.svg" title="FileZilla" />
+  <img width="48" src=".github/simple-icons/json.svg" title="JSON" />
+  <img width="48" src=".github/simple-icons/less.svg" title="LESS" />
+  <img width="48" src=".github/simple-icons/microsoftteams.svg" title="Microsoft Teams" />
+  <img width="48" src=".github/simple-icons/notepadplusplus.svg" title="Notepad++" />
+  <img width="48" src=".github/simple-icons/powershell.svg" title="Powershell" />
+  <img width="48" src=".github/simple-icons/puppeteer.svg" title="Puppeteer" />
+  <img width="48" src=".github/simple-icons/python.svg" title="Python" />
+  <img width="48" src=".github/simple-icons/react.svg" title="React" />
+  <img width="48" src=".github/simple-icons/reactivex.svg" title="ReactiveX" />
+  <img width="48" src=".github/simple-icons/sass.svg" title="SASS" />
+  <img width="48" src=".github/simple-icons/swagger.svg" title="Swagger" />
+  <img width="48" src=".github/simple-icons/ubuntu.svg" title="Ubuntu" />
+  <img width="48" src=".github/simple-icons/webpack.svg" title="Webpack" />
+  <img width="48" src=".github/simple-icons/xstate.svg" title="XState" />
+  <img width="48" src=".github/simple-icons/zoom.svg" title="Zoom" />
 </p>
 
-<!-- TODO -->
-<!--
-Platforms:
-Hobbies:
-<img width="48" src=".github/simple-icons/arduino.svg" title="" />
-<img width="48" src=".github/simple-icons/battledotnet.svg" title="" />
--->
+Various likes and interests:
 
-Thanks for visiting my page!
+<p float="left">
+  <!-- Icons Source: https://simpleicons.org/ -->
+  <img width="48" src=".github/simple-icons/arduino.svg" title="Arduino" />
+  <img width="48" src=".github/simple-icons/blender.svg" title="Blender" />
+  <img width="48" src=".github/simple-icons/dcentertainment.svg" title="DC" />
+  <img width="48" src=".github/simple-icons/discord.svg" title="Discord" />
+  <img width="48" src=".github/simple-icons/dungeonsanddragons.svg" title="Dungeons & Dragons" />
+  <img width="48" src=".github/simple-icons/epicgames.svg" title="Epic Games" />
+  <img width="48" src=".github/simple-icons/funimation.svg" title="Funimation" />
+  <img width="48" src=".github/simple-icons/jeep.svg" title="Jeep" />
+  <img width="48" src=".github/simple-icons/nintendo.svg" title="Nintendo" />
+  <img width="48" src=".github/simple-icons/playstation.svg" title="Playstation" />
+  <img width="48" src=".github/simple-icons/pokemon.svg" title="Pokemon" />
+  <img width="48" src=".github/simple-icons/reddit.svg" title="Reddit" />
+  <img width="48" src=".github/simple-icons/riotgames.svg" title="Riot Games" />
+  <img width="48" src=".github/simple-icons/sega.svg" title="Sega" />
+  <img width="48" src=".github/simple-icons/spotify.svg" title="Spotify" />
+  <img width="48" src=".github/simple-icons/squareenix.svg" title="Square Enix" />
+  <img width="48" src=".github/simple-icons/steam.svg" title="Steam" />
+  <img width="48" src=".github/simple-icons/thingiverse.svg" title="Thingiverse" />
+  <img width="48" src=".github/simple-icons/xbox.svg" title="Xbox" />
+</p>
 
----
+Thanks for visiting my GitHub profile!
 
-God, grant me the serenity to accept the things I cannot change; courage to change the things I can; and wisdom to know the difference. Living one day at a time; enjoying one moment at a time; accepting hardships as the pathway to peace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He will make all things right if I surrender to His Will; so that I may be reasonably happy in this life, and supremely happy with Him forever and ever in the next. Amen.
-
-<!--
-  Icons Source:
-  https://simpleicons.org/
--->
+<details>
+  <summary>Cody Tolene</summary>
+  
+  ```
+  God, grant me the serenity to accept the things I cannot change; courage to change the things I can; and wisdom to know the difference. Living one day at a time; enjoying one moment at a time; accepting hardships as the pathway to peace; taking, as He did, this sinful world as it is, not as I would have it; trusting that He will make all things right if I surrender to His Will; so that I may be reasonably happy in this life, and supremely happy with Him forever and ever in the next. Amen.
+  ```
+</details>
