@@ -1,6 +1,6 @@
 ## Cody Tolene
 
-Father, husband, software engineer, tinkerer, a curious mind.
+Father, husband, software engineer, tinkerer with an insatiably curious mind.
 
 <p>
   <img width="48" src=".github/simple-icons/buymeacoffee.svg" title="Buy Me a Coffee" />
