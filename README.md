@@ -4,10 +4,10 @@ Father, husband, software engineer, tinkerer with an insatiably curious mind.
 
 <p>
   <img width="48" src=".github/simple-icons/buymeacoffee.svg" title="Buy Me a Coffee" />
-  <a href="https://www.buymeacoffee.com/codytolene">Buy me a coffee!</a>
+  <a href="https://www.buymeacoffee.com/codytolene">I take coffee <s>injections</s> donations!</a>
 </p>
 
-A few notable brain downloads:
+Things I like or know [from [simpleicons.org](https://simpleicons.org/)]:
 
 <p float="left">
   <!-- Icons Source: https://simpleicons.org/ -->
@@ -66,12 +66,6 @@ A few notable brain downloads:
   <img width="48" src=".github/simple-icons/webpack.svg" title="Webpack" />
   <img width="48" src=".github/simple-icons/xstate.svg" title="XState" />
   <img width="48" src=".github/simple-icons/zoom.svg" title="Zoom" />
-</p>
-
-Various likes and interests:
-
-<p float="left">
-  <!-- Icons Source: https://simpleicons.org/ -->
   <img width="48" src=".github/simple-icons/arduino.svg" title="Arduino" />
   <img width="48" src=".github/simple-icons/blender.svg" title="Blender" />
   <img width="48" src=".github/simple-icons/dcentertainment.svg" title="DC" />
