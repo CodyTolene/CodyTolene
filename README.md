@@ -1,6 +1,6 @@
 [![Cody Tolene][cody-tolene-intro-img]][cody-tolene-link]
 
-<img align="right" src=".github/images/github.gif" width="250">
+<img align="right" src=".github/images/github.gif" width="350">
 
 ### Passionate Software Engineer | Front-end Specialist | Lifelong Learner
 
