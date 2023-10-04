@@ -2,12 +2,6 @@
 
 <img align="right" src=".github/images/github.gif" width="250">
 
-|                                                                | Link                                                                               |
-| :------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| <img width="48" src=".github/ng-icons/email.svg" />            | webmaster@codytolene.com                                                           |
-| <img width="48" src=".github/simple-icons/buymeacoffee.svg" /> | https://www.buymeacoffee.com/codytolene                                            |
-| <img width="48" src=".github/images/bitcoin-btc-logo.svg" />   | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][btc-address-link] |
-
 ### Passionate Software Engineer | Front-end Specialist | Lifelong Learner
 
 Hello there! I'm a dedicated software engineer with a passion for technology and a penchant for problem-solving. My expertise lies in front-end development, where I craft seamless and engaging user experiences. I thrive on learning, constantly exploring the ever-evolving world of technology to enhance my skills.
@@ -23,6 +17,8 @@ Hello there! I'm a dedicated software engineer with a passion for technology and
 ### Beyond Code:
 
 I'm more than a software engineer; I'm a devoted husband, a caring father, a loving son, and a loyal friend. I find strength in my human connections and draw inspiration from my faith. As a child of God, I approach every aspect of my life with empathy, kindness, and a commitment to making a positive impact.
+
+![Metrics](https://metrics.lecoq.io/CodyTolene?template=classic&isocalendar=1&languages=1&introduction=1&habits=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=America%2FChicago&config.display=large)
 
 ### Languages
 
@@ -109,7 +105,7 @@ I'm more than a software engineer; I'm a devoted husband, a caring father, a lov
   <img width="48" src=".github/simple-icons/steam.svg" title="Steam" />
 </p>
 
-### Media & other likes
+### Media & Other Likes
 
 <p float="left">
   <img width="48" src=".github/simple-icons/onepunchman.svg" title="One Punch Man" />
@@ -129,7 +125,15 @@ I'm more than a software engineer; I'm a devoted husband, a caring father, a lov
   <img width="48" src=".github/simple-icons/squareenix.svg" title="Square Enix" />
 </p>
 
-### Thanks for visiting my GitHub profile, let's code the future together! 🚀
+### Contact & Contributions - THANK YOU!
+
+| Type                                                           | Info                                                                               |
+| :------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| <img width="48" src=".github/ng-icons/email.svg" />            | webmaster@codytolene.com                                                           |
+| <img width="48" src=".github/simple-icons/buymeacoffee.svg" /> | https://www.buymeacoffee.com/codytolene                                            |
+| <img width="48" src=".github/images/bitcoin-btc-logo.svg" />   | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][btc-address-link] |
+
+### Let's code the future together! 🚀
 
 <details>
   <summary>
