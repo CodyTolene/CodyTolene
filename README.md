@@ -144,7 +144,7 @@ I'm more than a software engineer; I'm a devoted husband, a caring father, a lov
   ```
 </details>
 
-[btc-address-link]: https://explorer.btc.com/btc/address/
+[btc-address-link]: https://explorer.btc.com/btc/address/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [cody-tolene-intro-img]: .github/images/cody-tolene-intro.gif
 [cody-tolene-link]: https://www.codytolene.com
 [simple-icons-link]: https://simpleicons.org/
