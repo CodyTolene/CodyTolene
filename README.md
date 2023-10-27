@@ -14,6 +14,14 @@ Hello there! I'm a dedicated software engineer with a passion for technology and
 - **Creator & Builder:** From concepts to fully functional applications, I enjoy the process of transforming ideas into reality.
 - **Tech Enthusiast:** A gamer, geek, nerd, and dork rolled into one, I find joy in exploring various facets of technology.
 
+### Beyond Coding
+
+I work as a software engineer, but my life isn’t just lines of code. I'm a husband, a dad, a son, and a friend. These connections give my life depth and meaning.
+
+Beyond the screen, I'm fascinated by the inner workings of microelectronics. I enjoy the challenge of understanding the intricate details, experimenting, and discovering how things connect. There's something incredibly satisfying about tinkering with tiny circuits, understanding their nuances, and seeing them come to life.
+
+In the blend of family, friendships, technology, tinkering, and faith, I find my balance. I'm just a regular guy with a curious mind, finding wonder in the everyday and trying to make a positive difference wherever I can.
+
 ![⚠️Metrics - Failed to load...](https://metrics.lecoq.io/CodyTolene?template=classic&isocalendar=1&languages=1&introduction=1&habits=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=America%2FChicago&config.display=large)
 
 ### Languages
