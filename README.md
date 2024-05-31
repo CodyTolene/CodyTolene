@@ -1,6 +1,6 @@
 [![Cody Tolene][cody-tolene-intro-img]][cody-tolene-link]
 
-<img align="right" src=".github/images/github.gif" width="275">
+<img align="right" src=".github/images/github.gif" width="200">
 
 ### Passionate Software Engineer | Front-end Specialist | Lifelong Learner
 
@@ -24,7 +24,7 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
 
 ![⚠️Metrics - Failed to load...](https://metrics.lecoq.io/CodyTolene?template=classic&isocalendar=1&languages=1&introduction=1&habits=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&config.timezone=America%2FChicago&config.display=large)
 
-### Languages
+### Likeons
 
 <p float="left">
   <img width="48" src=".github/simple-icons/javascript.svg" title="JavaScript" />
@@ -38,11 +38,6 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="48" src=".github/simple-icons/json.svg" title="JSON" />
   <img width="48" src=".github/simple-icons/less.svg" title="LESS" />
   <img width="48" src=".github/simple-icons/sass.svg" title="SASS" />
-</p>
-
-### Frameworks & Platforms
-
-<p float="left">
   <img width="48" src=".github/simple-icons/angular.svg" title="Google Angular" />
   <img width="48" src=".github/simple-icons/react.svg" title="React" />
   <img width="48" src=".github/simple-icons/dotnet.svg" title=".NET" />
@@ -58,11 +53,6 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="48" src=".github/simple-icons/azurepipelines.svg" title="Azure Pipelines" />
   <img width="48" src=".github/simple-icons/blazor.svg" title="Blazor" />
   <img width="48" src=".github/simple-icons/datadog.svg" title="Datadog" />
-</p>
-
-### Web Tools & Libraries
-
-<p float="left">
   <img width="48" src=".github/simple-icons/nodedotjs.svg" title="Node.js" />
   <img width="48" src=".github/simple-icons/reactivex.svg" title="ReactiveX" />
   <img width="48" src=".github/simple-icons/d3dotjs.svg" title="D3.js" />
@@ -77,11 +67,6 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="48" src=".github/simple-icons/swagger.svg" title="Swagger" />
   <img width="48" src=".github/simple-icons/webpack.svg" title="Webpack" />
   <img width="48" src=".github/simple-icons/xstate.svg" title="XState" />
-</p>
-
-### Tools
-
-<p float="left">
   <img width="48" src=".github/simple-icons/visualstudio.svg" title="Visual Studio" />
   <img width="48" src=".github/simple-icons/visualstudiocode.svg" title="Visual Studio Code" />
   <img width="48" src=".github/simple-icons/git.svg" title="Git" />
@@ -95,11 +80,6 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="48" src=".github/simple-icons/microsoftteams.svg" title="Microsoft Teams" />
   <img width="48" src=".github/simple-icons/notepadplusplus.svg" title="Notepad++" />
   <img width="48" src=".github/simple-icons/zoom.svg" title="Zoom" />
-</p>
-
-### Hobbies
-
-<p float="left">
   <img width="48" src=".github/simple-icons/flipperzero.svg" title="Flipper Zero" />
   <img width="48" src=".github/simple-icons/thingiverse.svg" title="Thingiverse" />
   <img width="48" src=".github/simple-icons/ubuntu.svg" title="Ubuntu" />
@@ -107,11 +87,6 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="48" src=".github/simple-icons/blender.svg" title="Blender" />
   <img width="48" src=".github/simple-icons/discord.svg" title="Discord" />
   <img width="48" src=".github/simple-icons/steam.svg" title="Steam" />
-</p>
-
-### Media & Other Likes
-
-<p float="left">
   <img width="48" src=".github/simple-icons/onepunchman.svg" title="One Punch Man" />
   <img width="48" src=".github/simple-icons/nintendo.svg" title="Nintendo" />
   <img width="48" src=".github/simple-icons/funimation.svg" title="Funimation" />
@@ -129,7 +104,9 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="48" src=".github/simple-icons/squareenix.svg" title="Square Enix" />
 </p>
 
-### Contact & Contributions - THANK YOU!
+### Contact & Contributions
+
+Thank you for any contributions you make to my projects. Your support is appreciated!
 
 | Type                                                           | Info                                                                               |
 | :------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
@@ -137,7 +114,7 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
 | <img width="48" src=".github/simple-icons/buymeacoffee.svg" /> | https://www.buymeacoffee.com/codytolene                                            |
 | <img width="48" src=".github/images/bitcoin-btc-logo.svg" />   | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][btc-address-link] |
 
-### Let's code the future together! 🚀
+Let's code the future together! 🚀
 
 <details>
   <summary>
