@@ -93,7 +93,7 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
 ### Other Interests
 
 <p float="left">
-  <img width="24" src=".github/simple-icons/raspberrypi.svg" title="Flipper Zero" />
+  <img width="24" src=".github/simple-icons/raspberrypi.svg" title="Raspberry Pi" />
   <img width="24" src=".github/simple-icons/flipperzero.svg" title="Flipper Zero" />
   <img width="24" src=".github/simple-icons/thingiverse.svg" title="Thingiverse" />
   <img width="24" src=".github/simple-icons/ubuntu.svg" title="Ubuntu" />
