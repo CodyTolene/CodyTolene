@@ -1,28 +1,10 @@
 [![Cody Tolene][cody-tolene-intro-img]][cody-tolene-link]
 
-<img align="right" src=".github/images/github.gif" width="200">
+<!-- <img align="right" src=".github/images/github.gif" width="200"> -->
 
-### Passionate Software Engineer | Front-end Specialist | Lifelong Learner
+I'm Cody Tolene, a seasoned software engineer with extensive experience in the ever-changing world of technology. My journey began during the dot-com boom, where I fell in love with creating through Flash and ActionScript. Today, I specialize in crafting seamless and engaging user experiences, primarily using Google Angular. Beyond coding, I'm a husband, dad, and lifelong learner who finds joy in mentoring others, exploring new technologies, and making a positive impact. Whether I'm leading, coding, or tinkering, I find balance and fulfillment in family, friendships, technology, and faith.
 
-Hello there! I'm a dedicated software engineer with a passion for technology and a penchant for problem-solving. My expertise lies in front-end web development, where I craft seamless and engaging user experiences. I thrive on learning, constantly exploring the ever-evolving world of technology to enhance my skills and satisfy my curiosity.
-
-### What Defines Me:
-
-- **Innovative Problem Solver:** I tackle challenges with a creative and analytical mindset, finding innovative solutions.
-- **Team Player & Leader:** Whether as a supportive team member or a guiding leader, I foster collaboration and inspire others.
-- **Mentor & Student:** I find fulfillment in both mentoring others and being a perpetual student, always eager to expand my knowledge.
-- **Creator & Builder:** From concepts to fully functional applications, I enjoy the process of transforming ideas into reality.
-- **Tech Enthusiast:** A gamer, geek, nerd, and dork rolled into one, I find joy in exploring various facets of technology.
-
-### Beyond Coding
-
-I work as a software engineer, but my life isn’t just lines of code. I'm a husband, a dad, a son, and a friend. These connections give my life depth and meaning.
-
-Beyond the screen, I'm fascinated by the inner workings of microelectronics. I enjoy the challenge of understanding the intricate details, experimenting, and discovering how things connect. There's something incredibly satisfying about tinkering with tiny circuits, understanding their nuances, and seeing them come to life.
-
-In the blend of family, friendships, technology, tinkering, and faith, I find my balance. I'm just a regular guy with a curious mind, finding wonder in the everyday and trying to make a positive difference wherever I can.
-
-### Programming Languages
+### Programming
 
 <p float="left">
   <img width="24" src=".github/simple-icons/javascript.svg" title="JavaScript" />
@@ -38,7 +20,7 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="24" src=".github/simple-icons/sass.svg" title="SASS" />
 </p>
 
-### Frameworks & Platforms
+### Frameworks / Platforms
 
 <p float="left">
   <img width="24" src=".github/simple-icons/angular.svg" title="Google Angular" />
@@ -58,7 +40,7 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="24" src=".github/simple-icons/datadog.svg" title="Datadog" />
 </p>
 
-### Libraries & Tools
+### Libraries / Tools
 
 <p float="left">
   <img width="24" src=".github/simple-icons/nodedotjs.svg" title="Node.js" />
@@ -90,7 +72,7 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="24" src=".github/simple-icons/zoom.svg" title="Zoom" />
 </p>
 
-### Other Interests
+### Other
 
 <p float="left">
   <img width="24" src=".github/simple-icons/raspberrypi.svg" title="Raspberry Pi" />
@@ -118,17 +100,26 @@ In the blend of family, friendships, technology, tinkering, and faith, I find my
   <img width="24" src=".github/simple-icons/squareenix.svg" title="Square Enix" />
 </p>
 
-### Contact & Contributions
+### Open Source Projects
 
-Thank you for any contributions you make to my projects. Your support is appreciated!
+| Repo | |
+| :---: | :-- |
+| [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80">](https://github.com/CodyTolene/3D-Printing) | https://github.com/CodyTolene/3D-Printing |
+| [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit |
+| [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite) | https://github.com/CodyTolene/Flipper-Zero-Camera-Suite |
+| [<img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" height="90">](https://github.com/CodyTolene/Unicorn-Pi) | https://github.com/CodyTolene/Unicorn-Pi |
+| [<img src="https://github.com/CodyTolene/Unicorn-Pi-Galactic/raw/main/.github/images/unicorn-pi-galactic.png" height="90">](https://github.com/CodyTolene/Unicorn-Pi-Galactic) | https://github.com/CodyTolene/Unicorn-Pi-Galactic |
+| [<img src="https://github.com/CodyTolene/Pocket-Pi/raw/main/.github/images/pocket-pi.png" height="100">](https://github.com/CodyTolene/Pocket-Pi) | https://github.com/CodyTolene/Pocket-Pi |
+
+### Contact / Contributions
+
+Thank you for any contributions you make to my projects. Your support is greatly appreciated!
 
 | Type                                                           | Info                                                                               |
 | :------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
 | <img width="24" src=".github/ng-icons/email.svg" />            | webmaster@codytolene.com                                                           |
 | <img width="24" src=".github/simple-icons/buymeacoffee.svg" /> | https://www.buymeacoffee.com/codytolene                                            |
 | <img width="24" src=".github/images/bitcoin-btc-logo.svg" />   | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][btc-address-link] |
-
-Let's code the future together! 🚀
 
 <details>
   <summary>
