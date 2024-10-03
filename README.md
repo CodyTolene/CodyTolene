@@ -105,6 +105,7 @@ I'm Cody Tolene, a seasoned software engineer with extensive experience in the e
 | Repo | |
 | :---: | :-- |
 | [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80">](https://github.com/CodyTolene/3D-Printing) | https://github.com/CodyTolene/3D-Printing |
+| [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80">](https://github.com/CodyTolene/Pico-Portal) | https://github.com/CodyTolene/Pico-Portal |
 | [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit |
 | [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite) | https://github.com/CodyTolene/Flipper-Zero-Camera-Suite |
 | [<img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" height="90">](https://github.com/CodyTolene/Unicorn-Pi) | https://github.com/CodyTolene/Unicorn-Pi |
