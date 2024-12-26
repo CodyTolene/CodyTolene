@@ -2,7 +2,7 @@
 
 ## About
 
-I'm Cody Tolene, a software engineer who especially loves full-stack development and Angular. My journey started back in the days of Flash and ActionScript, and now I focus on building clean, engaging web experiences. This GitHub is where I share tools, experiments, and personal projects. When I’m not coding, I’m a husband, dad, and lifelong learner who finds joy in mentoring others while constantly exploring new technologies. Thanks for checking out my profile—feel free to drop me a line sometime!
+I'm Cody Tolene, a software engineer who especially enjoys full-stack development and Angular. My journey started back in the days of Flash and ActionScript, and now I focus on building clean, engaging web experiences. This GitHub is where I share tools, experiments, and personal projects. When I’m not coding, I’m a husband, dad, and lifelong learner who finds joy in mentoring others while constantly exploring new technologies. Thanks for checking out my profile—feel free to drop me a line sometime!
 
 ## Projects
 
