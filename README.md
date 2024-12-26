@@ -1,5 +1,25 @@
 [![Cody Tolene][cody-tolene-intro-img]][cody-tolene-link]
 
+## About
+
+I'm Cody Tolene, a software engineer who especially loves full-stack development and Angular. My journey started back in the days of Flash and ActionScript, and now I focus on building clean, engaging web experiences. This GitHub is where I share tools, experiments, and personal projects. When I’m not coding, I’m a husband, dad, and lifelong learner who finds joy in mentoring others while constantly exploring new technologies. Thanks for checking out my profile—feel free to drop me a line sometime!
+
+## Projects
+
+|                                                                                                   Repo Logo                                                                                                    | Repo Link                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------- |
+|                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | https://github.com/CodyTolene/3D-Printing                      |
+|                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | https://github.com/CodyTolene/Red-Portals                      |
+|                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | https://github.com/CodyTolene/Pico-Portal                      |
+|         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | https://github.com/CodyTolene/Lambda-Cyberdeck-910             |
+| [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit |
+|        [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite)         | https://github.com/CodyTolene/Flipper-Zero-Camera-Suite        |
+|                         [<img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi)                         | https://github.com/CodyTolene/Unicorn-Pi                       |
+|           [<img src="https://github.com/CodyTolene/Unicorn-Pi-Galactic/raw/main/.github/images/unicorn-pi-galactic.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi-Galactic)            | https://github.com/CodyTolene/Unicorn-Pi-Galactic              |
+|                         [<img src="https://github.com/CodyTolene/Pocket-Pi/raw/main/.github/images/pocket-pi.png" height="100" width="100">](https://github.com/CodyTolene/Pocket-Pi)                          | https://github.com/CodyTolene/Pocket-Pi                        |
+
+## Preferences
+
 ### Programming
 
 <p float="left">
@@ -96,21 +116,7 @@
   <img width="24" src=".github/simple-icons/squareenix.svg" title="Square Enix" />
 </p>
 
-### Open Source Projects
-
-|                                                                                                      Repo                                                                                                      | Link                                                           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------- |
-|                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | https://github.com/CodyTolene/3D-Printing                      |
-|                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | https://github.com/CodyTolene/Red-Portals                      |
-|                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | https://github.com/CodyTolene/Pico-Portal                      |
-|         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | https://github.com/CodyTolene/Lambda-Cyberdeck-910             |
-| [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit |
-|        [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite)         | https://github.com/CodyTolene/Flipper-Zero-Camera-Suite        |
-|                         [<img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi)                         | https://github.com/CodyTolene/Unicorn-Pi                       |
-|           [<img src="https://github.com/CodyTolene/Unicorn-Pi-Galactic/raw/main/.github/images/unicorn-pi-galactic.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi-Galactic)            | https://github.com/CodyTolene/Unicorn-Pi-Galactic              |
-|                         [<img src="https://github.com/CodyTolene/Pocket-Pi/raw/main/.github/images/pocket-pi.png" height="100" width="100">](https://github.com/CodyTolene/Pocket-Pi)                          | https://github.com/CodyTolene/Pocket-Pi                        |
-
-### Contact / Contributions
+## Contact / Contributions
 
 Thank you for any contributions you make to my projects. Your support is greatly appreciated!
 
