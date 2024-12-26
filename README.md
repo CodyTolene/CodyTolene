@@ -1,9 +1,5 @@
 [![Cody Tolene][cody-tolene-intro-img]][cody-tolene-link]
 
-<!-- <img align="right" src=".github/images/github.gif" width="200"> -->
-
-I'm Cody Tolene, a seasoned software engineer with extensive experience in the ever-changing world of technology. My journey began during the dot-com boom, where I fell in love with creating through Flash and ActionScript. Today, I specialize in crafting seamless and engaging user experiences, primarily using Google Angular. Beyond coding, I'm a husband, dad, and lifelong learner who finds joy in mentoring others, exploring new technologies, and making a positive impact. Whether I'm leading, coding, or tinkering, I find balance and fulfillment in family, friendships, technology, and faith.
-
 ### Programming
 
 <p float="left">
@@ -102,11 +98,11 @@ I'm Cody Tolene, a seasoned software engineer with extensive experience in the e
 
 ### Open Source Projects
 
-|                                                                                                      Repo                                                                                                      |                                                                |
+|                                                                                                      Repo                                                                                                      | Link                                                           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------- |
 |                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | https://github.com/CodyTolene/3D-Printing                      |
-|                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | https://github.com/CodyTolene/Pico-Portal                      |
 |                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | https://github.com/CodyTolene/Red-Portals                      |
+|                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | https://github.com/CodyTolene/Pico-Portal                      |
 |         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | https://github.com/CodyTolene/Lambda-Cyberdeck-910             |
 | [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit |
 |        [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite)         | https://github.com/CodyTolene/Flipper-Zero-Camera-Suite        |
@@ -118,11 +114,11 @@ I'm Cody Tolene, a seasoned software engineer with extensive experience in the e
 
 Thank you for any contributions you make to my projects. Your support is greatly appreciated!
 
-| Type                                                           | Info                                                                               |
-| :------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| <img width="24" src=".github/ng-icons/email.svg" />            | webmaster@codytolene.com                                                           |
-| <img width="24" src=".github/simple-icons/buymeacoffee.svg" /> | https://www.buymeacoffee.com/codytolene                                            |
-| <img width="24" src=".github/images/bitcoin-btc-logo.svg" />   | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][btc-address-link] |
+| Type                                                           | Info                                                           |
+| :------------------------------------------------------------- | :------------------------------------------------------------- |
+| <img width="24" src=".github/ng-icons/email.svg" />            | webmaster@codytolene.com                                       |
+| <img width="24" src=".github/simple-icons/buymeacoffee.svg" /> | https://www.buymeacoffee.com/codytolene                        |
+| <img width="24" src=".github/images/bitcoin-btc-logo.svg" />   | bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt |
 
 <details>
   <summary>
@@ -137,7 +133,6 @@ Thank you for any contributions you make to my projects. Your support is greatly
   ```
 </details>
 
-[btc-address-link]: https://explorer.btc.com/btc/address/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [cody-tolene-intro-img]: .github/images/cody-tolene-intro.gif
 [cody-tolene-link]: https://www.codytolene.com
 [simple-icons-link]: https://simpleicons.org/
