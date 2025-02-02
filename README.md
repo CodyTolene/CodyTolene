@@ -123,6 +123,7 @@ Thank you for any contributions you make to my projects. Your support is greatly
 | Type                                                           | Info                                                           |
 | :------------------------------------------------------------- | :------------------------------------------------------------- |
 | <img width="24" src=".github/ng-icons/email.svg" />            | webmaster@codytolene.com                                       |
+| <img width="24" src=".github/simple-icons/github.svg" />       | https://github.com/sponsors/CodyTolene                         |
 | <img width="24" src=".github/simple-icons/buymeacoffee.svg" /> | https://www.buymeacoffee.com/codytolene                        |
 | <img width="24" src=".github/images/bitcoin-btc-logo.svg" />   | bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt |
 
