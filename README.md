@@ -4,6 +4,17 @@
 
 I'm Cody Tolene, a software engineer who especially enjoys full-stack development and Angular. My journey started back in the days of Flash and ActionScript, and now I focus on building clean, engaging web experiences. This GitHub is where I share tools, experiments, and personal projects. When I’m not coding, I’m a husband, dad, and lifelong learner who finds joy in mentoring others while constantly exploring new technologies. Thanks for checking out my profile—feel free to drop me a line sometime!
 
+## Websites
+
+| Link                                | Description                              |
+| :---------------------------------- | :--------------------------------------- |
+| [Cody Tolene][cody-tolene-link]     | Portfolio (kind of) website.             |
+| [Lambda Guru][lambda-guru-link]     | Blog about software development.         |
+| [Pip-Boy][pip-boy-link]             | A Pip-Boy inspired terminal.             |
+| [My Game Stack][my-game-stack-link] | Video game catalog and social network.   |
+| [Pro Angular][pro-angular-link]     | Angular development tools and resources. |
+| [LinkedIn][linked-in-link]          | Professional networking.                 |
+
 ## Projects
 
 |                                                                                                   Repo Logo                                                                                                    | Repo Link                                                      |
@@ -145,4 +156,9 @@ Thank you for any contributions you make to my projects. Your support is greatly
 
 [cody-tolene-intro-img]: .github/images/cody-tolene-intro.gif
 [cody-tolene-link]: https://www.codytolene.com
+[lambda-guru-link]: https://www.lambda.guru
+[linked-in-link]: https://www.linkedin.com/in/cody-tolene
+[my-game-stack-link]: https://www.mygamestack.com
+[pip-boy-link]: https://www.pip-boy.com
+[pro-angular-link]: https://www.proangular.com
 [simple-icons-link]: https://simpleicons.org/
