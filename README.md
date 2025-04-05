@@ -9,8 +9,8 @@ I'm Cody Tolene, a software engineer who especially enjoys full-stack developmen
 | Link                                | Description                              |
 | :---------------------------------- | :--------------------------------------- |
 | [Cody Tolene][cody-tolene-link]     | Portfolio (kind of) website.             |
-| [Lambda Guru][lambda-guru-link]     | Blog about software development.         |
 | [Pip-Boy][pip-boy-link]             | A Pip-Boy inspired terminal.             |
+| [Lambda Guru][lambda-guru-link]     | Blog about software development.         |
 | [My Game Stack][my-game-stack-link] | Video game catalog and social network.   |
 | [Pro Angular][pro-angular-link]     | Angular development tools and resources. |
 | [LinkedIn][linked-in-link]          | Professional networking.                 |
@@ -19,6 +19,7 @@ I'm Cody Tolene, a software engineer who especially enjoys full-stack developmen
 
 |                                                                                                   Repo Logo                                                                                                    | Repo Link                                                      |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------- |
+|                     [<img src="https://github.com/CodyTolene/pip-terminal/raw/main/.github/images/logo/pip-terminal.png" height="72" width="100">](https://github.com/CodyTolene/pip-apps)                     | https://github.com/CodyTolene/pip-terminal                     |
 |                             [<img src="https://github.com/CodyTolene/pip-apps/raw/main/.github/images/logo.png" height="100" width="100">](https://github.com/CodyTolene/pip-apps)                             | https://github.com/CodyTolene/pip-apps                         |
 |                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | https://github.com/CodyTolene/3D-Printing                      |
 |                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | https://github.com/CodyTolene/Red-Portals                      |
