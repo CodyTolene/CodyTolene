@@ -2,7 +2,9 @@
 
 ## About
 
-I'm Cody Tolene, a software engineer who especially enjoys full-stack development and Angular. My journey started back in the days of Flash and ActionScript, and now I focus on building clean, engaging web experiences. This GitHub is where I share tools, experiments, and personal projects. When I’m not coding, I’m a husband, dad, and lifelong learner who finds joy in mentoring others while constantly exploring new technologies. Thanks for checking out my profile—feel free to drop me a line sometime!
+I'm Cody Tolene, a full-stack developer with over 10 years of experience building Angular applications and the systems that support them. I’ve led projects across medical and logistics platforms, embedded UIs, AI integrations, and file system tools. My focus is on clean architecture, modern tooling, and long-term maintainability.
+
+I work heavily with TypeScript, C#, and reactive programming patterns. Outside of web development, I spend a lot of time with embedded systems, especially the Raspberry Pi and Espruino (Pip-Boy 3000 Mk V). I’m also into 3D printing, hardware modding, and penetration testing. Most of what you’ll find here reflects those interests, whether it's tools, experiments, or custom device integrations.
 
 ## Websites
 
