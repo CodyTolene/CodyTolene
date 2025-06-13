@@ -10,11 +10,10 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
 
 | Link                                | Description                              |
 | :---------------------------------- | :--------------------------------------- |
-| [Cody Tolene][cody-tolene-link]     | Personal Website (portfolio).            |
-| [Pip-Boy][pip-boy-link]             | A Pip-Boy inspired terminal.             |
-| [Lambda Guru][lambda-guru-link]     | Blog about software development.         |
-| [My Game Stack][my-game-stack-link] | Video game catalog and social network.   |
+| [Cody Tolene][cody-tolene-link]     | Personal website (portfolio).            |
 | [Pro Angular][pro-angular-link]     | Angular development tools and resources. |
+| [Lambda Guru][lambda-guru-link]     | Blog about software development.         |
+| [Pip-Boy][pip-boy-link]             | A Pip-Boy inspired terminal.             |
 | [LinkedIn][linked-in-link]          | Professional networking.                 |
 
 ## Projects
