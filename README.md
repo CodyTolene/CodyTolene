@@ -8,13 +8,13 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
 
 ## Websites
 
-| Link                                | Description                              |
-| :---------------------------------- | :--------------------------------------- |
-| [Cody Tolene][cody-tolene-link]     | Personal website (portfolio).            |
-| [Pro Angular][pro-angular-link]     | Angular development tools and resources. |
-| [Lambda Guru][lambda-guru-link]     | Blog about software development.         |
-| [Pip-Boy][pip-boy-link]             | A Pip-Boy inspired terminal.             |
-| [LinkedIn][linked-in-link]          | Professional networking.                 |
+| Link                            | Description                              |
+| :------------------------------ | :--------------------------------------- |
+| [Cody Tolene][cody-tolene-link] | Personal website (portfolio).            |
+| [Pro Angular][pro-angular-link] | Angular development tools and resources. |
+| [Lambda Guru][lambda-guru-link] | Blog about software development.         |
+| [Pip-Boy][pip-boy-link]         | A Pip-Boy inspired terminal.             |
+| [LinkedIn][linked-in-link]      | Professional networking.                 |
 
 ## Projects
 
@@ -23,7 +23,7 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
 |                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | https://github.com/CodyTolene/3D-Printing                      |
 |                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | https://github.com/CodyTolene/Red-Portals                      |
 |                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | https://github.com/CodyTolene/Pico-Portal                      |
-|                             [<img src="https://github.com/CodyTolene/pip-apps/raw/main/.github/images/logo.png" height="72" width="100">](https://github.com/CodyTolene/pip-apps)                              | https://github.com/CodyTolene/pip-apps                         |
+|                         [<img src="https://github.com/CodyTolene/pip-boy-apps/raw/main/.github/images/logo.png" height="72" width="100">](https://github.com/CodyTolene/pip-boy-apps)                          | https://github.com/CodyTolene/pip-boy-apps                     |
 |                   [<img src="https://github.com/CodyTolene/stable-diffusion-qsg/raw/main/.github/images/ai.png" height="80" width="80">](https://github.com/CodyTolene/stable-diffusion-qsg)                   | https://github.com/CodyTolene/stable-diffusion-qsg             |
 |         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | https://github.com/CodyTolene/Lambda-Cyberdeck-910             |
 |                        [<img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/pro-form)                         | https://github.com/ProAngular/pro-form                         |
