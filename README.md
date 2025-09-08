@@ -18,24 +18,24 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
 
 ## Projects
 
-|                                                                                                   Repo Logo                                                                                                    | Repo Link                                                       |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------- |
-|                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | https://github.com/CodyTolene/3D-Printing                       |
-|                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | https://github.com/CodyTolene/Red-Portals                       |
-|                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | https://github.com/CodyTolene/Pico-Portal                       |
-|                         [<img src="https://github.com/CodyTolene/pip-boy-apps/raw/main/.github/images/logo.png" height="72" width="100">](https://github.com/CodyTolene/pip-boy-apps)                          | https://github.com/CodyTolene/pip-boy-apps                      |
-|     [<img src="https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter/raw/main/.github/images/tool.png" height="80" width="80">](https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter)     | https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter |
-|        [<img src="https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool/raw/main/.github/images/tv.png" height="80" width="80">](https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool)        | https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool   |
-|                   [<img src="https://github.com/CodyTolene/stable-diffusion-qsg/raw/main/.github/images/ai.png" height="80" width="80">](https://github.com/CodyTolene/stable-diffusion-qsg)                   | https://github.com/CodyTolene/stable-diffusion-qsg              |
-|         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | https://github.com/CodyTolene/Lambda-Cyberdeck-910              |
-|                        [<img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/pro-form)                         | https://github.com/ProAngular/pro-form                          |
-|                     [<img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/ngx-gist)                      | https://github.com/ProAngular/ngx-gist                          |
-|                  [<img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/ngx-scroll-top)                   | https://github.com/ProAngular/ngx-scroll-top                    |
-| [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit  |
-|        [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite)         | https://github.com/CodyTolene/Flipper-Zero-Camera-Suite         |
-|                         [<img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi)                         | https://github.com/CodyTolene/Unicorn-Pi                        |
-|           [<img src="https://github.com/CodyTolene/Unicorn-Pi-Galactic/raw/main/.github/images/unicorn-pi-galactic.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi-Galactic)            | https://github.com/CodyTolene/Unicorn-Pi-Galactic               |
-|                         [<img src="https://github.com/CodyTolene/Pocket-Pi/raw/main/.github/images/pocket-pi.png" height="100" width="100">](https://github.com/CodyTolene/Pocket-Pi)                          | https://github.com/CodyTolene/Pocket-Pi                         |
+|                                                                                                   Repo Logo                                                                                                    | Repo & Link                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------- |
+|                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | [3D Printing][3d-printing]                                               |
+|                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | [Red Portals][red-portals]                                               |
+|                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | [Pico Portal][pico-portal]                                               |
+|                         [<img src="https://github.com/CodyTolene/pip-boy-apps/raw/main/.github/images/logo.png" height="72" width="100">](https://github.com/CodyTolene/pip-boy-apps)                          | [Pip-Boy Apps][pip-boy-apps]                                             |
+|     [<img src="https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter/raw/main/.github/images/tool.png" height="80" width="80">](https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter)     | [Pip-Boy 3000 Mk V - Media Converter][pip-boy-3000-mk-v-media-converter] |
+|        [<img src="https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool/raw/main/.github/images/tv.png" height="80" width="80">](https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool)        | [Tiny TV 2 Batch Conversion Tool][tiny-tv-2-batch-conversion-tool]       |
+|                   [<img src="https://github.com/CodyTolene/stable-diffusion-qsg/raw/main/.github/images/ai.png" height="80" width="80">](https://github.com/CodyTolene/stable-diffusion-qsg)                   | [Stable Diffusion QSG][stable-diffusion-qsg]                             |
+|         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | [Lambda Cyberdeck 910][lambda-cyberdeck-910]                             |
+|                        [<img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/pro-form)                         | [Pro Form][pro-form]                                                     |
+|                     [<img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/ngx-gist)                      | [Ngx Gist][ngx-gist]                                                     |
+|                  [<img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/ngx-scroll-top)                   | [Ngx Scroll Top][ngx-scroll-top]                                         |
+| [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | [Flipper Zero Development Toolkit][flipper-zero-development-toolkit]     |
+|        [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite)         | [Flipper Zero Camera Suite][flipper-zero-camera-suite]                   |
+|                         [<img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi)                         | [Unicorn Pi][unicorn-pi]                                                 |
+|           [<img src="https://github.com/CodyTolene/Unicorn-Pi-Galactic/raw/main/.github/images/unicorn-pi-galactic.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi-Galactic)            | [Unicorn Pi Galactic][unicorn-pi-galactic]                               |
+|                         [<img src="https://github.com/CodyTolene/Pocket-Pi/raw/main/.github/images/pocket-pi.png" height="100" width="100">](https://github.com/CodyTolene/Pocket-Pi)                          | [Pocket Pi][pocket-pi]                                                   |
 
 ## Preferences
 
@@ -159,6 +159,8 @@ Thank you for any contributions you make to my projects. Your support is greatly
   ```
 </details>
 
+<!-- LINKS - EXTERNAL -->
+
 [cody-tolene-intro-img]: .github/images/cody-tolene-intro.gif
 [cody-tolene-link]: https://www.codytolene.com
 [lambda-guru-link]: https://www.lambda.guru
@@ -167,3 +169,22 @@ Thank you for any contributions you make to my projects. Your support is greatly
 [pip-boy-link]: https://www.pip-boy.com
 [pro-angular-link]: https://www.proangular.com
 [simple-icons-link]: https://simpleicons.org/
+
+<!-- LINKS - REPOS -->
+
+[3d-printing]: https://github.com/CodyTolene/3D-Printing
+[red-portals]: https://github.com/CodyTolene/Red-Portals
+[pico-portal]: https://github.com/CodyTolene/Pico-Portal
+[pip-boy-apps]: https://github.com/CodyTolene/pip-boy-apps
+[pip-boy-3000-mk-v-media-converter]: https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter
+[tiny-tv-2-batch-conversion-tool]: https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool
+[stable-diffusion-qsg]: https://github.com/CodyTolene/stable-diffusion-qsg
+[lambda-cyberdeck-910]: https://github.com/CodyTolene/Lambda-Cyberdeck-910
+[pro-form]: https://github.com/ProAngular/pro-form
+[ngx-gist]: https://github.com/ProAngular/ngx-gist
+[ngx-scroll-top]: https://github.com/ProAngular/ngx-scroll-top
+[flipper-zero-development-toolkit]: https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit
+[flipper-zero-camera-suite]: https://github.com/CodyTolene/Flipper-Zero-Camera-Suite
+[unicorn-pi]: https://github.com/CodyTolene/Unicorn-Pi
+[unicorn-pi-galactic]: https://github.com/CodyTolene/Unicorn-Pi-Galactic
+[pocket-pi]: https://github.com/CodyTolene/Pocket-Pi
