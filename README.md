@@ -28,6 +28,7 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
 |        [<img src="https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool/raw/main/.github/images/tv.png" height="80" width="80">](https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool)        | [TinyTV® 2 Batch Conversion Tool][tiny-tv-2-batch-conversion-tool]       |
 |                   [<img src="https://github.com/CodyTolene/stable-diffusion-qsg/raw/main/.github/images/ai.png" height="80" width="80">](https://github.com/CodyTolene/stable-diffusion-qsg)                   | [Stable Diffusion QSG][stable-diffusion-qsg]                             |
 |         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | [Lambda Cyberdeck 910][lambda-cyberdeck-910]                             |
+|                              [<img src="https://github.com/ProAngular/pro-ject/raw/main/.github/images/logo.png" height="80" width="80">](https://github.com/ProAngular/pro-ject)                              | [Angular - Pro Ject][pro-ject]                                           |
 |                        [<img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/pro-form)                         | [Angular - Pro Form][pro-form]                                           |
 |                       [<img src="https://github.com/ProAngular/pro-table/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/pro-table)                        | [Angular - Pro Table][pro-table]                                         |
 |                     [<img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/ngx-gist)                      | [Angular - Ngx Gist][ngx-gist]                                           |
@@ -174,19 +175,20 @@ Thank you for any contributions you make to my projects. Your support is greatly
 <!-- LINKS - REPOS -->
 
 [3d-printing]: https://github.com/CodyTolene/3D-Printing
-[red-portals]: https://github.com/CodyTolene/Red-Portals
-[pico-portal]: https://github.com/CodyTolene/Pico-Portal
-[pip-boy-apps]: https://github.com/CodyTolene/pip-boy-apps
-[pip-boy-3000-mk-v-media-converter]: https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter
-[tiny-tv-2-batch-conversion-tool]: https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool
-[stable-diffusion-qsg]: https://github.com/CodyTolene/stable-diffusion-qsg
+[flipper-zero-camera-suite]: https://github.com/CodyTolene/Flipper-Zero-Camera-Suite
+[flipper-zero-development-toolkit]: https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit
 [lambda-cyberdeck-910]: https://github.com/CodyTolene/Lambda-Cyberdeck-910
-[pro-form]: https://github.com/ProAngular/pro-form
-[pro-table]: https://github.com/ProAngular/pro-table
 [ngx-gist]: https://github.com/ProAngular/ngx-gist
 [ngx-scroll-top]: https://github.com/ProAngular/ngx-scroll-top
-[flipper-zero-development-toolkit]: https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit
-[flipper-zero-camera-suite]: https://github.com/CodyTolene/Flipper-Zero-Camera-Suite
-[unicorn-pi]: https://github.com/CodyTolene/Unicorn-Pi
-[unicorn-pi-galactic]: https://github.com/CodyTolene/Unicorn-Pi-Galactic
+[pico-portal]: https://github.com/CodyTolene/Pico-Portal
+[pip-boy-3000-mk-v-media-converter]: https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter
+[pip-boy-apps]: https://github.com/CodyTolene/pip-boy-apps
 [pocket-pi]: https://github.com/CodyTolene/Pocket-Pi
+[pro-form]: https://github.com/ProAngular/pro-form
+[pro-ject]: https://github.com/ProAngular/pro-ject
+[pro-table]: https://github.com/ProAngular/pro-table
+[red-portals]: https://github.com/CodyTolene/Red-Portals
+[stable-diffusion-qsg]: https://github.com/CodyTolene/stable-diffusion-qsg
+[tiny-tv-2-batch-conversion-tool]: https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool
+[unicorn-pi-galactic]: https://github.com/CodyTolene/Unicorn-Pi-Galactic
+[unicorn-pi]: https://github.com/CodyTolene/Unicorn-Pi
