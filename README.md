@@ -8,133 +8,255 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
 
 ## Websites
 
-| Link                            | Description                              |
-| :------------------------------ | :--------------------------------------- |
-| [Cody Tolene][cody-tolene-link] | Personal website (portfolio).            |
-| [Pro Angular][pro-angular-link] | Angular development tools and resources. |
-| [Lambda Guru][lambda-guru-link] | Blog about software development.         |
-| [Pip-Boy][pip-boy-link]         | A Pip-Boy inspired terminal.             |
-| [LinkedIn][linked-in-link]      | Professional networking.                 |
+<table align="center">
+  <tr>
+    <td align="left" width="380">
+      <a href="https://www.codytolene.com">
+        <img src="https://www.google.com/s2/favicons?domain=www.codytolene.com&sz=64" width="16" height="16" alt="" />
+        <b>&nbsp;codytolene.com</b>
+      </a><br/>
+      <sub>Personal portfolio and resume.</sub>
+    </td>
+    <td align="left" width="380">
+      <a href="https://www.linkedin.com/in/cody-tolene">
+        <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=64" width="16" height="16" alt="" />
+        <b>&nbsp;LinkedIn</b>
+      </a><br/>
+      <sub>Professional profile.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="380">
+      <a href="https://www.pip-boy.com">
+        <img src="https://www.google.com/s2/favicons?domain=www.pip-boy.com&sz=64" width="16" height="16" alt="" />
+        <b>&nbsp;pip-boy.com</b>
+      </a><br/>
+      <sub>Fallout-inspired terminal, software, and community tools.</sub>
+    </td>
+    <td align="left" width="380">
+      <a href="https://www.lambda.guru">
+        <img src="https://www.google.com/s2/favicons?domain=www.lambda.guru&sz=64" width="16" height="16" alt="" />
+        <b>&nbsp;lambda.guru</b>
+      </a><br/>
+      <sub>Notes on software, development, and other topics.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="380">
+      <a href="https://www.proangular.com">
+        <img src="https://www.google.com/s2/favicons?domain=www.proangular.com&sz=64" width="16" height="16" alt="" />
+        <b>&nbsp;proangular.com</b>
+      </a><br/>
+      <sub>Reusable Angular tools and guides.</sub>
+    </td>
+    <td align="left" width="380">
+      <a href="https://www.thingiverse.com/CodyTolene">
+        <img src="https://www.google.com/s2/favicons?domain=www.thingiverse.com&sz=64" width="16" height="16" alt="" />
+        <b>&nbsp;thingiverse.com</b>
+      </a><br/>
+      <sub>3D printing designs and models.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Projects
 
-|                                                                                                   Repo Logo                                                                                                    | Repo & Link                                                              |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------- |
-|                           [<img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" height="80" width="190">](https://github.com/CodyTolene/3D-Printing)                            | [3D Printing][3d-printing]                                               |
-|                [<img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" height="80" width="80">](https://github.com/CodyTolene/Red-Portals)                | [Red Portals][red-portals]                                               |
-|                     [<img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" height="80" width="80">](https://github.com/CodyTolene/Pico-Portal)                      | [Pico Portal][pico-portal]                                               |
-|                         [<img src="https://github.com/CodyTolene/pip-boy-apps/raw/main/.github/images/logo.png" height="72" width="100">](https://github.com/CodyTolene/pip-boy-apps)                          | [Pip-Boy Apps][pip-boy-apps]                                             |
-|     [<img src="https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter/raw/main/.github/images/tool.png" height="80" width="80">](https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter)     | [Pip-Boy 3000 Mk V - Media Converter][pip-boy-3000-mk-v-media-converter] |
-|        [<img src="https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool/raw/main/.github/images/tv.png" height="80" width="80">](https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool)        | [TinyTV® 2 Batch Conversion Tool][tiny-tv-2-batch-conversion-tool]       |
-|                   [<img src="https://github.com/CodyTolene/stable-diffusion-qsg/raw/main/.github/images/ai.png" height="80" width="80">](https://github.com/CodyTolene/stable-diffusion-qsg)                   | [Stable Diffusion QSG][stable-diffusion-qsg]                             |
-|         [<img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" height="80" width="80">](https://github.com/CodyTolene/Lambda-Cyberdeck-910)          | [Lambda Cyberdeck 910][lambda-cyberdeck-910]                             |
-|                              [<img src="https://github.com/ProAngular/pro-ject/raw/main/.github/images/logo.png" height="80" width="80">](https://github.com/ProAngular/pro-ject)                              | [Angular - Pro Ject][pro-ject]                                           |
-|                        [<img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/pro-form)                         | [Angular - Pro Form][pro-form]                                           |
-|                       [<img src="https://github.com/ProAngular/pro-table/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/pro-table)                        | [Angular - Pro Table][pro-table]                                         |
-|                     [<img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/ngx-gist)                      | [Angular - Ngx Gist][ngx-gist]                                           |
-|                  [<img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" height="80" width="80">](https://github.com/ProAngular/ngx-scroll-top)                   | [Angular - Ngx Scroll Top][ngx-scroll-top]                               |
-| [<img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit) | [Flipper Zero Development Toolkit][flipper-zero-development-toolkit]     |
-|        [<img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" height="50" width="125">](https://github.com/CodyTolene/Flipper-Zero-Camera-Suite)         | [Flipper Zero Camera Suite][flipper-zero-camera-suite]                   |
-|                         [<img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi)                         | [Unicorn Pi][unicorn-pi]                                                 |
-|           [<img src="https://github.com/CodyTolene/Unicorn-Pi-Galactic/raw/main/.github/images/unicorn-pi-galactic.png" height="90" width="90">](https://github.com/CodyTolene/Unicorn-Pi-Galactic)            | [Unicorn Pi Galactic][unicorn-pi-galactic]                               |
-|                         [<img src="https://github.com/CodyTolene/Pocket-Pi/raw/main/.github/images/pocket-pi.png" height="100" width="100">](https://github.com/CodyTolene/Pocket-Pi)                          | [Pocket Pi][pocket-pi]                                                   |
+<table align="center">
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/3D-Printing">
+        <img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" width="190" height="80" alt="3D Printing">
+        <br><sub><b>3D Printing</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/pip-boy-apps">
+        <img src="https://github.com/CodyTolene/pip-boy-apps/raw/main/.github/images/logo.png" width="96" height="96" alt="Pip-Boy Apps">
+        <br><sub><b>Pip-Boy Apps</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter">
+        <img src="https://github.com/CodyTolene/pip-boy-3000-mk-v-media-converter/raw/main/.github/images/tool.png" width="96" height="96" alt="Pip-Boy 3000 Mk V - Media Converter">
+        <br><sub><b>Pip-Boy - Media Converter</b></sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool">
+        <img src="https://github.com/CodyTolene/tiny-tv-2-batch-conversion-tool/raw/main/.github/images/tv.png" width="96" height="96" alt="TinyTV 2 Batch Conversion Tool">
+        <br><sub><b>TinyTV 2 - Conversion Tool</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Pico-Portal">
+        <img src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png" width="96" height="96" alt="Pico Portal">
+        <br><sub><b>Pico Portal</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Lambda-Cyberdeck-910">
+        <img src="https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/.github/images/logo/lambda_cyberdeck.png" width="96" height="96" alt="Lambda Cyberdeck 910">
+        <br><sub><b>Lambda Cyberdeck 910</b></sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Red-Portals">
+        <img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" width="96" height="96" alt="Red Portals">
+        <br><sub><b>Red Portals</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/pro-ject">
+        <img src="https://github.com/ProAngular/pro-ject/raw/main/.github/images/logo.png" width="96" height="96" alt="Angular - Pro Ject">
+        <br><sub><b>Angular - Pro Ject</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/pro-form">
+        <img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Pro Form">
+        <br><sub><b>Angular - Pro Form</b></sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/pro-table">
+        <img src="https://github.com/ProAngular/pro-table/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Pro Table">
+        <br><sub><b>Angular - Pro Table</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/ngx-gist">
+        <img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Ngx Gist">
+        <br><sub><b>Angular - Ngx Gist</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/ngx-scroll-top">
+        <img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Ngx Scroll Top">
+        <br><sub><b>Angular - Ngx Scroll Top</b></sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/stable-diffusion-qsg">
+        <img src="https://github.com/CodyTolene/stable-diffusion-qsg/raw/main/.github/images/ai.png" width="96" height="96" alt="Stable Diffusion QSG">
+        <br><sub><b>Stable Diffusion QSG</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit">
+        <img src="https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit/raw/main/.github/images/blank-flipper.png" width="125" height="50" alt="Flipper Zero Development Toolkit">
+        <br><sub><b>F0 Development Toolkit</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite">
+        <img src="https://github.com/CodyTolene/Flipper-Zero-Camera-Suite/raw/main/.github/images/camera-suite.png" width="125" height="50" alt="Flipper Zero Camera Suite">
+        <br><sub><b>F0 Camera Suite</b></sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Unicorn-Pi">
+        <img src="https://github.com/CodyTolene/Unicorn-Pi/raw/main/.github/images/unicorn-pi.png" width="96" height="96" alt="Unicorn Pi">
+        <br><sub><b>Unicorn Pi</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Unicorn-Pi-Galactic">
+        <img src="https://github.com/CodyTolene/Unicorn-Pi-Galactic/raw/main/.github/images/unicorn-pi-galactic.png" width="96" height="96" alt="Unicorn Pi Galactic">
+        <br><sub><b>Unicorn Pi Galactic</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/Pocket-Pi">
+        <img src="https://github.com/CodyTolene/Pocket-Pi/raw/main/.github/images/pocket-pi.png" width="96" height="96" alt="Pocket Pi">
+        <br><sub><b>Pocket Pi</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Preferences
 
 ### Programming
 
 <p float="left">
-  <img width="24" src=".github/simple-icons/javascript.svg" title="JavaScript" />
-  <img width="24" src=".github/simple-icons/typescript.svg" title="TypeScript" />
-  <img width="24" src=".github/simple-icons/csharp.svg" title="CSharp" />
-  <img width="24" src=".github/simple-icons/cplusplus.svg" title="C++" />
-  <img width="24" src=".github/simple-icons/c.svg" title="C" />
-  <img width="24" src=".github/simple-icons/python.svg" title="Python" />
-  <img width="24" src=".github/simple-icons/html5.svg" title="HTML5" />
-  <img width="24" src=".github/simple-icons/css3.svg" title="CSS3" />
-  <img width="24" src=".github/simple-icons/json.svg" title="JSON" />
-  <img width="24" src=".github/simple-icons/less.svg" title="LESS" />
-  <img width="24" src=".github/simple-icons/sass.svg" title="SASS" />
+  <img width="48" src=".github/simple-icons/javascript.svg" title="JavaScript" />
+  <img width="48" src=".github/simple-icons/typescript.svg" title="TypeScript" />
+  <img width="48" src=".github/simple-icons/csharp.svg" title="CSharp" />
+  <img width="48" src=".github/simple-icons/cplusplus.svg" title="C++" />
+  <img width="48" src=".github/simple-icons/c.svg" title="C" />
+  <img width="48" src=".github/simple-icons/python.svg" title="Python" />
+  <img width="48" src=".github/simple-icons/html5.svg" title="HTML5" />
+  <img width="48" src=".github/simple-icons/css3.svg" title="CSS3" />
+  <img width="48" src=".github/simple-icons/json.svg" title="JSON" />
+  <img width="48" src=".github/simple-icons/less.svg" title="LESS" />
+  <img width="48" src=".github/simple-icons/sass.svg" title="SASS" />
 </p>
 
 ### Frameworks / Platforms
 
 <p float="left">
-  <img width="24" src=".github/simple-icons/angular.svg" title="Google Angular" />
-  <img width="24" src=".github/simple-icons/react.svg" title="React" />
-  <img width="24" src=".github/simple-icons/dotnet.svg" title=".NET" />
-  <img width="24" src=".github/simple-icons/azuredevops.svg" title="Azure DevOps" />
-  <img width="24" src=".github/simple-icons/microsoftazure.svg" title="Microsoft Azure" />
-  <img width="24" src=".github/simple-icons/firebase.svg" title="Google Firebase" />
-  <img width="24" src=".github/simple-icons/amazonaws.svg" title="Amazon AWS" />
-  <img width="24" src=".github/simple-icons/githubactions.svg" title="GitHub Actions" />
-  <img width="24" src=".github/simple-icons/githubpages.svg" title="GitHub Pages" />
-  <img width="24" src=".github/simple-icons/github.svg" title="GitHub" />
-  <img width="24" src=".github/simple-icons/jira.svg" title="Jira" />
-  <img width="24" src=".github/simple-icons/googlecloud.svg" title="Google Cloud" />
-  <img width="24" src=".github/simple-icons/azurepipelines.svg" title="Azure Pipelines" />
-  <img width="24" src=".github/simple-icons/blazor.svg" title="Blazor" />
-  <img width="24" src=".github/simple-icons/datadog.svg" title="Datadog" />
+  <img width="48" src=".github/simple-icons/angular.svg" title="Google Angular" />
+  <img width="48" src=".github/simple-icons/react.svg" title="React" />
+  <img width="48" src=".github/simple-icons/dotnet.svg" title=".NET" />
+  <img width="48" src=".github/simple-icons/azuredevops.svg" title="Azure DevOps" />
+  <img width="48" src=".github/simple-icons/microsoftazure.svg" title="Microsoft Azure" />
+  <img width="48" src=".github/simple-icons/firebase.svg" title="Google Firebase" />
+  <img width="48" src=".github/simple-icons/amazonaws.svg" title="Amazon AWS" />
+  <img width="48" src=".github/simple-icons/githubactions.svg" title="GitHub Actions" />
+  <img width="48" src=".github/simple-icons/githubpages.svg" title="GitHub Pages" />
+  <img width="48" src=".github/simple-icons/github.svg" title="GitHub" />
+  <img width="48" src=".github/simple-icons/jira.svg" title="Jira" />
+  <img width="48" src=".github/simple-icons/googlecloud.svg" title="Google Cloud" />
+  <img width="48" src=".github/simple-icons/azurepipelines.svg" title="Azure Pipelines" />
+  <img width="48" src=".github/simple-icons/blazor.svg" title="Blazor" />
+  <img width="48" src=".github/simple-icons/datadog.svg" title="Datadog" />
 </p>
 
 ### Libraries / Tools
 
 <p float="left">
-  <img width="24" src=".github/simple-icons/nodedotjs.svg" title="Node.js" />
-  <img width="24" src=".github/simple-icons/reactivex.svg" title="ReactiveX" />
-  <img width="24" src=".github/simple-icons/d3dotjs.svg" title="D3.js" />
-  <img width="24" src=".github/simple-icons/express.svg" title="Express" />
-  <img width="24" src=".github/simple-icons/bootstrap.svg" title="Bootstrap" />
-  <img width="24" src=".github/simple-icons/postman.svg" title="Postman" />
-  <img width="24" src=".github/simple-icons/docker.svg" title="Docker" />
-  <img width="24" src=".github/simple-icons/mysql.svg" title="MySQL" />
-  <img width="24" src=".github/simple-icons/microsoftsqlserver.svg" title="Microsoft SQL Server" />
-  <img width="24" src=".github/simple-icons/eslint.svg" title="ESLint" />
-  <img width="24" src=".github/simple-icons/puppeteer.svg" title="Puppeteer" />
-  <img width="24" src=".github/simple-icons/swagger.svg" title="Swagger" />
-  <img width="24" src=".github/simple-icons/webpack.svg" title="Webpack" />
-  <img width="24" src=".github/simple-icons/xstate.svg" title="XState" />
-  <img width="24" src=".github/simple-icons/visualstudio.svg" title="Visual Studio" />
-  <img width="24" src=".github/simple-icons/visualstudiocode.svg" title="Visual Studio Code" />
-  <img width="24" src=".github/simple-icons/git.svg" title="Git" />
-  <img width="24" src=".github/simple-icons/adobephotoshop.svg" title="Adobe Photoshop" />
-  <img width="24" src=".github/simple-icons/adobeillustrator.svg" title="Adobe Illustrator" />
-  <img width="24" src=".github/simple-icons/powershell.svg" title="Powershell" />
-  <img width="24" src=".github/simple-icons/microsoftoffice.svg" title="Microsoft Office" />
-  <img width="24" src=".github/simple-icons/grunt.svg" title="Grunt" />
-  <img width="24" src=".github/simple-icons/gulp.svg" title="Gulp" />
-  <img width="24" src=".github/simple-icons/filezilla.svg" title="FileZilla" />
-  <img width="24" src=".github/simple-icons/microsoftteams.svg" title="Microsoft Teams" />
-  <img width="24" src=".github/simple-icons/notepadplusplus.svg" title="Notepad++" />
-  <img width="24" src=".github/simple-icons/zoom.svg" title="Zoom" />
-</p>
-
-### Other
-
-<p float="left">
-  <img width="24" src=".github/simple-icons/raspberrypi.svg" title="Raspberry Pi" />
-  <img width="24" src=".github/simple-icons/flipperzero.svg" title="Flipper Zero" />
-  <img width="24" src=".github/simple-icons/thingiverse.svg" title="Thingiverse" />
-  <img width="24" src=".github/simple-icons/ubuntu.svg" title="Ubuntu" />
-  <img width="24" src=".github/simple-icons/arduino.svg" title="Arduino" />
-  <img width="24" src=".github/simple-icons/blender.svg" title="Blender" />
-  <img width="24" src=".github/simple-icons/discord.svg" title="Discord" />
-  <img width="24" src=".github/simple-icons/steam.svg" title="Steam" />
-  <img width="24" src=".github/simple-icons/onepunchman.svg" title="One Punch Man" />
-  <img width="24" src=".github/simple-icons/nintendo.svg" title="Nintendo" />
-  <img width="24" src=".github/simple-icons/funimation.svg" title="Funimation" />
-  <img width="24" src=".github/simple-icons/dungeonsanddragons.svg" title="Dungeons & Dragons" />
-  <img width="24" src=".github/simple-icons/fullmetallalchemist.svg" title="Fullmetal Alchemist" />
-  <img width="24" src=".github/simple-icons/pokemon.svg" title="Pokemon" />
-  <img width="24" src=".github/simple-icons/reddit.svg" title="Reddit" />
-  <img width="24" src=".github/simple-icons/xbox.svg" title="Xbox" />
-  <img width="24" src=".github/simple-icons/dcentertainment.svg" title="DC" />
-  <img width="24" src=".github/simple-icons/epicgames.svg" title="Epic Games" />
-  <img width="24" src=".github/simple-icons/playstation.svg" title="Playstation" />
-  <img width="24" src=".github/simple-icons/riotgames.svg" title="Riot Games" />
-  <img width="24" src=".github/simple-icons/sega.svg" title="Sega" />
-  <img width="24" src=".github/simple-icons/spotify.svg" title="Spotify" />
-  <img width="24" src=".github/simple-icons/squareenix.svg" title="Square Enix" />
+  <img width="48" src=".github/simple-icons/nodedotjs.svg" title="Node.js" />
+  <img width="48" src=".github/simple-icons/reactivex.svg" title="ReactiveX" />
+  <img width="48" src=".github/simple-icons/d3dotjs.svg" title="D3.js" />
+  <img width="48" src=".github/simple-icons/express.svg" title="Express" />
+  <img width="48" src=".github/simple-icons/bootstrap.svg" title="Bootstrap" />
+  <img width="48" src=".github/simple-icons/postman.svg" title="Postman" />
+  <img width="48" src=".github/simple-icons/docker.svg" title="Docker" />
+  <img width="48" src=".github/simple-icons/mysql.svg" title="MySQL" />
+  <img width="48" src=".github/simple-icons/microsoftsqlserver.svg" title="Microsoft SQL Server" />
+  <img width="48" src=".github/simple-icons/eslint.svg" title="ESLint" />
+  <img width="48" src=".github/simple-icons/puppeteer.svg" title="Puppeteer" />
+  <img width="48" src=".github/simple-icons/swagger.svg" title="Swagger" />
+  <img width="48" src=".github/simple-icons/webpack.svg" title="Webpack" />
+  <img width="48" src=".github/simple-icons/xstate.svg" title="XState" />
+  <img width="48" src=".github/simple-icons/visualstudio.svg" title="Visual Studio" />
+  <img width="48" src=".github/simple-icons/visualstudiocode.svg" title="Visual Studio Code" />
+  <img width="48" src=".github/simple-icons/git.svg" title="Git" />
+  <img width="48" src=".github/simple-icons/adobephotoshop.svg" title="Adobe Photoshop" />
+  <img width="48" src=".github/simple-icons/adobeillustrator.svg" title="Adobe Illustrator" />
+  <img width="48" src=".github/simple-icons/powershell.svg" title="Powershell" />
+  <img width="48" src=".github/simple-icons/microsoftoffice.svg" title="Microsoft Office" />
+  <img width="48" src=".github/simple-icons/grunt.svg" title="Grunt" />
+  <img width="48" src=".github/simple-icons/gulp.svg" title="Gulp" />
+  <img width="48" src=".github/simple-icons/filezilla.svg" title="FileZilla" />
+  <img width="48" src=".github/simple-icons/microsoftteams.svg" title="Microsoft Teams" />
+  <img width="48" src=".github/simple-icons/notepadplusplus.svg" title="Notepad++" />
+  <img width="48" src=".github/simple-icons/zoom.svg" title="Zoom" />
 </p>
 
 ## Contact / Contributions
