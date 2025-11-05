@@ -59,19 +59,52 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
   </tr>
 </table>
 
-## Projects
+## Open Source Projects
 
 <table align="center">
   <tr>
     <td align="center" width="190">
-      <a href="https://github.com/CodyTolene/3D-Printing">
-        <img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" width="190" height="80" alt="3D Printing">
-        <br><sub><b>3D Printing</b></sub>
+      <a href="https://github.com/ProAngular/pro-ject">
+        <img src="https://github.com/ProAngular/pro-ject/raw/main/.github/images/logo.png" width="96" height="96" alt="Angular - Pro Ject">
+        <br><sub><b>Angular - Pro Ject</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/pro-form">
+        <img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Pro Form">
+        <br><sub><b>Angular - Pro Form</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/pro-table">
+        <img src="https://github.com/ProAngular/pro-table/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Pro Table">
+        <br><sub><b>Angular - Pro Table</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/ngx-gist">
+        <img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Ngx Gist">
+        <br><sub><b>Angular - Ngx Gist</b></sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="190">
+      <a href="https://github.com/ProAngular/ngx-scroll-top">
+        <img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Ngx Scroll Top">
+        <br><sub><b>Angular - Ngx Scroll Top</b></sub>
       </a>
     </td>
     <td align="center" width="190">
       <a href="https://github.com/CodyTolene/pip-boy-apps">
-        <img src="https://github.com/CodyTolene/pip-boy-apps/raw/main/.github/images/logo.png" width="96" height="96" alt="Pip-Boy Apps">
+        <img src="https://github.com/CodyTolene/pip-terminal/raw/main/.github/images/logo/fav-icon.png" width="96" height="96" alt="Pip-Boy Apps">
+        <br><sub><b>Pip-Boy.com</b></sub>
+      </a>
+    </td>
+    <td align="center" width="190">
+      <a href="https://github.com/CodyTolene/pip-boy-apps">
+        <img src="https://github.com/CodyTolene/pip-boy-apps/raw/main/.github/images/logo.png" width="96" height="68.77" alt="Pip-Boy Apps">
         <br><sub><b>Pip-Boy Apps</b></sub>
       </a>
     </td>
@@ -102,51 +135,21 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
         <br><sub><b>Lambda Cyberdeck 910</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="190">
       <a href="https://github.com/CodyTolene/Red-Portals">
         <img src="https://github.com/CodyTolene/Red-Portals/raw/main/.github/images/logo/red-portal-simplistic.png" width="96" height="96" alt="Red Portals">
         <br><sub><b>Red Portals</b></sub>
       </a>
     </td>
-    <td align="center" width="190">
-      <a href="https://github.com/ProAngular/pro-ject">
-        <img src="https://github.com/ProAngular/pro-ject/raw/main/.github/images/logo.png" width="96" height="96" alt="Angular - Pro Ject">
-        <br><sub><b>Angular - Pro Ject</b></sub>
-      </a>
-    </td>
-    <td align="center" width="190">
-      <a href="https://github.com/ProAngular/pro-form">
-        <img src="https://github.com/ProAngular/pro-form/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Pro Form">
-        <br><sub><b>Angular - Pro Form</b></sub>
-      </a>
-    </td>
   </tr>
 
   <tr>
     <td align="center" width="190">
-      <a href="https://github.com/ProAngular/pro-table">
-        <img src="https://github.com/ProAngular/pro-table/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Pro Table">
-        <br><sub><b>Angular - Pro Table</b></sub>
+      <a href="https://github.com/CodyTolene/3D-Printing">
+        <img src="https://github.com/CodyTolene/3D-Printing/raw/main/.github/images/3d.png" width="190" height="80" alt="3D Printing">
+        <br><sub><b>3D Printing</b></sub>
       </a>
     </td>
-    <td align="center" width="190">
-      <a href="https://github.com/ProAngular/ngx-gist">
-        <img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Ngx Gist">
-        <br><sub><b>Angular - Ngx Gist</b></sub>
-      </a>
-    </td>
-    <td align="center" width="190">
-      <a href="https://github.com/ProAngular/ngx-scroll-top">
-        <img src="https://github.com/ProAngular/ngx-scroll-top/raw/main/public/images/pro-angular-logo.png" width="96" height="96" alt="Angular - Ngx Scroll Top">
-        <br><sub><b>Angular - Ngx Scroll Top</b></sub>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
     <td align="center" width="190">
       <a href="https://github.com/CodyTolene/stable-diffusion-qsg">
         <img src="https://github.com/CodyTolene/stable-diffusion-qsg/raw/main/.github/images/ai.png" width="96" height="96" alt="Stable Diffusion QSG">
@@ -186,6 +189,7 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
         <br><sub><b>Pocket Pi</b></sub>
       </a>
     </td>
+    <td align="center" width="190"></td>
   </tr>
 </table>
 
