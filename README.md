@@ -97,9 +97,9 @@ I work heavily with TypeScript, C#, and reactive programming patterns. Outside o
       </a>
     </td>
     <td align="center" width="190">
-      <a href="https://github.com/CodyTolene/pip-boy-apps">
-        <img src="https://github.com/CodyTolene/pip-terminal/raw/main/.github/images/logo/fav-icon.png" width="96" height="96" alt="Pip-Boy Apps">
-        <br><sub><b>Pip-Boy.com</b></sub>
+      <a href="https://github.com/CodyTolene/pip-terminal">
+        <img src="https://github.com/CodyTolene/pip-terminal/raw/main/.github/images/logo/fav-icon.png" width="96" height="96" alt="Pip-Boy Terminal">
+        <br><sub><b>Pip-Boy Terminal</b></sub>
       </a>
     </td>
     <td align="center" width="190">
