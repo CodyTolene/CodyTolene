@@ -1,0 +1,8 @@
+# Ignore everything...
+/*
+
+# Except
+!.github/
+!.vscode/
+!README.md
+!package.json
