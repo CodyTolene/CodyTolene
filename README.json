@@ -1,0 +1,8 @@
+{
+  "$schema": "./README.schema.json",
+  "sections": [
+    { "title": "About", "content": "src/about.html" },
+    { "title": "Links", "content": "src/websites.html" },
+    { "title": "Thank you", "content": "src/thanks.html" }
+  ]
+}

@@ -4,5 +4,12 @@
 # Except
 !.github/
 !.vscode/
-!README.md
+!src/
+!src/**
+!.scripts/
+!.scripts/**
+!README.json
+!README.schema.json
 !package.json
+!prettier.config.cjs
+!tsconfig.json
