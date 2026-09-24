@@ -5,19 +5,19 @@
 <p>
   I'm a full-stack software engineer, longtime web developer, lifelong tech nut.
   I like building cool things and working on open source projects with other
-  cool developers out there.
+  awesome developers out there.
 </p>
 
 <p>
   I've been building websites since the mid 2000s, so I've seen the web evolve
   for longer than I'd like to admit. I started as a software intern way back
-  when, spent my share of time in gray cubicles of doom, and eventually moved
-  into leading teams and projects remotely across the world. For many
-  years, I worked on medical applications, logistics platforms, embedded UIs,
-  file system tools, and a lot more in between. These days, it's cleaning up a
-  lot of what AI generates <b>[insert T-800 meme here]</b>, and trying to make a
-  living building things I enjoy with companies that still care about the people
-  doing the work.
+  when, spent my share of time in a maze of gray cubicles, and eventually moved
+  into leading teams and projects remotely across the world. For many years, I
+  worked on medical applications, logistics platforms, embedded UIs, file system
+  tools, and a lot more in between. These days, it's cleaning up a lot of what
+  AI generates <b>[insert T-800 meme here]</b>, and trying to make a living
+  building things I enjoy with companies that still care about the people doing
+  the work.
 </p>
 
 <p>
