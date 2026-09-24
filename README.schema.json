@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/CodyTolene/CodyTolene/README.schema.json",
+  "title": "GitHub profile README blueprint",
+  "description": "Single source of truth for generating the GitHub profile README.md. Each section points at an HTML fragment under the repo; titles become ## headings when non-empty. CSS is local-preview only and is never written into README.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["sections"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Optional pointer to this schema for editor validation."
+    },
+    "sections": {
+      "type": "array",
+      "description": "Ordered sections composed into README.md and the local preview.",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["title", "content"],
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 0,
+            "description": "Section heading. Empty string means no ## heading is emitted."
+          },
+          "content": {
+            "type": "string",
+            "description": "Path to an HTML fragment relative to the repository root (for example src/about.html).",
+            "pattern": "^(?!\\.\\./)(?!.*/\\.\\./)[A-Za-z0-9._/-]+$"
+          }
+        }
+      }
+    }
+  }
+}
