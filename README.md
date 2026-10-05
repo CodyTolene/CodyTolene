@@ -1,6 +1,6 @@
 ## About
 
-<p>Hey there, I'm Code</p>
+<p>Hey there👋 I'm Code</p>
 
 <p>
   I'm a full-stack software engineer who's been building web software for most
