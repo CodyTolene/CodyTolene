@@ -3,9 +3,9 @@
 <p>Hey there👋 I'm Code</p>
 
 <p>
-  I'm a full-stack software engineer who's been building web software for most
-  of my life. I like figuring out how things work, building software people
-  enjoy using, and working on open source projects with other devs.
+  I'm a full-stack software engineer who's been building software for most of my
+  life. I like figuring out how things work, building software people enjoy
+  using, and working on open source projects with other devs.
 </p>
 
 <p>
