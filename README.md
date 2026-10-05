@@ -11,25 +11,27 @@
 <p>
   I've been building websites since the mid 2000s, so I've watched the web
   change quite a bit over the years, even more so now with AI. I started out as
-  a software intern, spent my share of time in gray cubicles and meetings that
-  should have been emails, and eventually moved into leading distributed teams
-  and projects with people around the world.
+  a software intern, spent my share of time in gray cubicles, and eventually
+  moved into leading distributed teams and projects with great people around the
+  world.
 </p>
 
 <p>
   For many of those years, I worked on medical applications, logistics
-  platforms, embedded UIs, file system tools, and plenty of other things in
-  between. No two projects were ever quite the same, which is a big part of what
-  has kept the work interesting for me.
+  platforms, embedded UIs for all kinds of systems, file system tools, and
+  plenty of other things in between. No two projects were ever the same, and I
+  spent a lot of time outside of work learning new tools, building side
+  projects, and pushing myself further than the job asked for. A lot of that
+  came from genuinely enjoying the work and always wanting to get better at it.
 </p>
 
 <p>
   Most of my professional work has been with TypeScript, C#, and reactive
   programming. Angular has been a core part of that work for more than a decade,
   usually backed by C# and ASP.NET or Node.js and Express. Outside of work, I
-  like tinkering with embedded systems like Raspberry Pi and Espruino, along
-  with 3D printing, hardware modding, game development, vector art, and pretty
-  much anything else that gives me an excuse to build something.
+  like messing with embedded systems like Raspberry Pi and Espruino, along with
+  3D printing, hardware modding, game development, vector art, and pretty much
+  anything else digital.
 </p>
 
 ## Links
