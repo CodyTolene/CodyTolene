@@ -1,39 +1,12 @@
 ## About
 
-<p>Hey there👋 I'm Code</p>
+Hey there👋 I'm Code
 
-<p>
-  I'm a full-stack software engineer who's been building software for most of my
-  life. I like figuring out how things work, building software people enjoy
-  using, and working on open source projects with other devs.
-</p>
-
-<p>
-  I've been building websites since the mid 2000s, so I've watched the web
-  change quite a bit over the years, even more so now with AI. I started out as
-  a software intern, spent my share of time in gray cubicles, and eventually
-  moved into leading distributed teams and projects with great people around the
-  world.
-</p>
-
-<p>
-  For many of those years, I worked on medical applications, logistics
-  platforms, embedded UIs for all kinds of systems, file system tools, and
-  plenty of other things in between. No two projects were ever the same, so
-  things always stayed interesting. I spent a lot of time outside of work
-  learning new tools, building side projects, and pushing myself further than
-  the job asked for. A lot of that came from genuinely enjoying the work and
-  always wanting to get better at it.
-</p>
-
-<p>
-  Most of my professional work has been with TypeScript, C#, and reactive
-  programming. Angular has been a core part of that work for more than a decade,
-  usually backed by C# and ASP.NET or Node.js and Express. Outside of work, I
-  like messing with embedded systems like Raspberry Pi and Espruino, along with
-  3D printing, hardware modding, game development, vector art, and pretty much
-  anything else digital.
-</p>
+- Full-stack software engineer building websites and software since the mid-2000s.
+- Experienced in leading distributed teams and developing medical, logistics, embedded, and enterprise applications.
+- Specializing in **TypeScript, Angular, C#, ASP.NET, Node.js, and reactive programming**.
+- Love to work on open source and community work, learning new tech, and building software people enjoy using.
+- Outside of work, I tinker with **embedded systems, Raspberry Pi, 3D printing, hardware modding, game development, and vector art**.
 
 ## Links
 
@@ -188,15 +161,15 @@
       align="left"
       width="390"
     >
-      <a href="https://www.proangular.com">
+      <a href="https://www.b33k33p3r.com">
         <img
-          src="https://www.google.com/s2/favicons?domain=www.proangular.com&sz=64"
+          src="https://www.google.com/s2/favicons?domain=www.b33k33p3r.com&sz=64"
           width="12"
           height="12"
           alt=""
-        /><b>&nbsp;proangular.com</b> </a
+        /><b>&nbsp;b33k33p3r.com</b> </a
       ><br />
-      <sub>Free Angular components and tooling.</sub>
+      <sub>A free desktop app for running a hive of AI agents.</sub>
     </td>
     <td
       align="left"
@@ -212,6 +185,24 @@
       ><br />
       <sub>Portfolio, resume, projects.</sub>
     </td>
+  </tr>
+
+  <tr>
+    <td
+      align="left"
+      width="390"
+    >
+      <a href="https://www.proangular.com">
+        <img
+          src="https://www.google.com/s2/favicons?domain=www.proangular.com&sz=64"
+          width="12"
+          height="12"
+          alt=""
+        /><b>&nbsp;proangular.com</b> </a
+      ><br />
+      <sub>Free Angular components and tooling.</sub>
+    </td>
+    <td align="left" width="390"></td>
   </tr>
 </table>
 <!-- 3D PRINTING -->
@@ -441,7 +432,7 @@
     >
       <a href="https://github.com/CodyTolene/Pico-Portal">
         <img
-          src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo/PicoPortal.png"
+          src="https://github.com/CodyTolene/Pico-Portal/raw/main/.github/images/logo.png"
           width="12"
           height="12"
           alt=""
