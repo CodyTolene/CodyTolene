@@ -1,12 +1,16 @@
 ## About
 
-Hey there👋 I'm Code
-
-- Full-stack software engineer building websites and software since the mid-2000s.
-- Experienced in leading distributed teams and developing medical, logistics, embedded, and enterprise applications.
-- Specializing in **TypeScript, Angular, C#, ASP.NET, Node.js, and reactive programming**.
-- Love to work on open source and community work, learning new tech, and building software people enjoy using.
-- Outside of work, I tinker with **embedded systems, Raspberry Pi, 3D printing, hardware modding, game development, and vector art**.
+<p>
+  Full-stack software engineer building websites and software since the
+  mid-2000s. Experienced in leading distributed teams and developing medical,
+  logistics, embedded, and enterprise applications. I specialize in TypeScript,
+  Angular, C#, ASP.NET, Node.js, and reactive programming, with additional
+  experience in database design, cloud services, automated testing, and CI/CD.
+  I'm pretty obsessive about clean architecture, accessibility, performance, and
+  writing reliable, maintainable code. Outside of my professional work, I
+  actively develop open-source projects, games, developer tools, and AI-powered
+  applications.
+</p>
 
 ## Links
 
@@ -202,7 +206,10 @@ Hey there👋 I'm Code
       ><br />
       <sub>Free Angular components and tooling.</sub>
     </td>
-    <td align="left" width="390"></td>
+    <td
+      align="left"
+      width="390"
+    ></td>
   </tr>
 </table>
 <!-- 3D PRINTING -->
@@ -577,6 +584,6 @@ Hey there👋 I'm Code
 </p>
 
 <p>
-  Thanks again and God Bless,<br />
+  God Bless,<br />
   Cody Tolene
 </p>
